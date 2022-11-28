@@ -70,9 +70,9 @@ colors = {
 
     -- new Syntax colors
     spiceGray    = '#808080',
-    spiceBlue    = '#4589ff',
+    spiceBlue    = '#33b1ff',
     spiceOrange  = '#fd971f',
-    spiceCyan    = '#82cfff',
+    spiceYellow  = '#f1c21b',
     spiceTeal    = '#3ddbd9',
     spiceMagenta = '#be95ff',
     spicePink    = '#ff7eb6',
@@ -83,7 +83,7 @@ colors = {
 
 -- Other ui specific colors
 colors.UiBlue = '#084671'
-colors.UiOrange = '#f28b25'
+colors.UiOrange = '#fd971f'
 colors.PopupHighlightLightBlue = '#d7eafe'
 
 return colors
