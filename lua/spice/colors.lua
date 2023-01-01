@@ -69,7 +69,8 @@ colors = {
     Pink         = '#C586C0',
 
     -- new Syntax colors
-    spiceGray    = '#808080',
+    spiceGray    = '#272727',
+    spiceWhite   = '#BBBBBB',
     spiceBlue    = '#33b1ff',
     spiceOrange  = '#fd971f',
     spiceYellow  = '#f1c21b',
